@@ -1,2 +1,2 @@
-# IDWProject
- Repository for IDW project.
+# IDW - Bonus
+ Repository for IDW bonus exercises.
