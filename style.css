@@ -17,6 +17,11 @@
     clear: both;
 }
 .bonus__footer {
-    background-color: gray;
+    background-color: rgb(76, 76, 104);
+    height: 250px;
+}
+
+.label__contact {
+  color: white;
 }
 
