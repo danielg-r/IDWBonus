@@ -3,13 +3,19 @@
     width: 33%;
     text-align: center;
   }
-  
-  /* Clear floats after the columns */
-  .row:after {
+
+.column__contact {
+    float: left;
+    width: 60%;
+    text-align: right;
+    margin-top: 50px;
+  }
+
+.row:after {
     content: "";
     display: table;
     clear: both;
-  }
+}
 .bonus__footer {
     background-color: gray;
 }
