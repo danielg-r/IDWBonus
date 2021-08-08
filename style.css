@@ -10,3 +10,7 @@
     display: table;
     clear: both;
   }
+.bonus__footer {
+    background-color: gray;
+}
+
