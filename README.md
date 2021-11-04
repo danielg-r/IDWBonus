@@ -1,2 +1,2 @@
 # IDW - Bonus
- Repository for IDW bonus exercises.
+ Repository for IDW bonus exercises or exams
